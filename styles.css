@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri&display=Amiri');
+
+
+#test {
+    width: 250px;
+    padding: 10px;
+    border: 2px #f7bfab;
+    margin: 5px;
+    background-color: #f8d4c7;
+    font-family: Amiri;
+    font-size: 150%;
+  }
